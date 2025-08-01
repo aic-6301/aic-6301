@@ -10,7 +10,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=aic-6301&theme=vue-dark&locale=ja&date_format=%5BY.%5Dn.j&type=svg)](https://git.io/streak-stats)
 
 何も作れないくせに何かを作ろうとしているよくわからない人。
-Alive in [HSS-Project](https://github.com/hss-project)
 
 ## Links
 Misskey.io: [@aicy@幼女.art](https://幼女.art/@aicy)
