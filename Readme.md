@@ -2,11 +2,8 @@
 ## たぶんつかえる(使ってる)
 [![My Skills](https://skillicons.dev/icons?i=discord,github,misskey,twitter,windows,vscode,python,lua,mysql)](https://skillicons.dev)
 ## 今後学びたいやつ
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ts,unity)](https://skillicons.dev) 
-
-![Metrics](/github-metrics.svg) 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/964887498436276305)](https://discord.com/users/964887498436276305) 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,linux,ts,unity)](https://skillicons.dev)    
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=aic-6301&theme=vue-dark&locale=ja&date_format=%5BY.%5Dn.j&type=svg)](https://git.io/streak-stats)
 
 何も作れないくせに何かを作ろうとしているよくわからない人。
